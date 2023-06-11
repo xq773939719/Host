@@ -7,12 +7,11 @@
 #  本地路由
 192.168.31.234 windows.xq
 192.168.31.234 manjaro.xq
-192.168.31.234 imac.xq
+192.168.31.88 imac.xq
 192.168.31.78 mbpm1.xq
-192.168.31.238 mbpintel.xq
+192.168.31.105 m2max.xq
 
 # Zerotier
 192.168.192.37 z.mbpm1.xq
 192.168.192.98 z.imac.xq
-192.168.192.226 z.mbpintel.xq
 192.168.192.125 z.c.mbpm1.xq
